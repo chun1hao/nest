@@ -1,0 +1,12 @@
+#user_menu {
+  display: flex;
+}
+
+#user_menu .left {
+  width: 200px;
+}
+
+#user_menu .right {
+  flex: 1;
+  padding: 20px;
+}

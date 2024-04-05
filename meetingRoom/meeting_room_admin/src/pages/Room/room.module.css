@@ -1,0 +1,8 @@
+.roomContainer {
+  padding: 20px;
+  padding-top: 0;
+}
+
+:global(.ant-form-item) {
+  margin-top: 20px;
+}
